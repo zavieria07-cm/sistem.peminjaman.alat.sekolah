@@ -21,7 +21,7 @@ namespace project1_ridho
             cmbJumlah.Items.Add("5");
             cmbJumlah.Items.Add("6");
             cmbJumlah.Items.Add("7");
-            cmbJumlah.Items.Add("8");
+            cmbJumlah.Items.Add("8");//
             cmbJumlah.Items.Add("9");
             cmbJumlah.Items.Add("10");
 
